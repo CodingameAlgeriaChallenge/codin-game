@@ -27,5 +27,7 @@ Please folow those steps :
 
 
 ### FAQ
+
 **How to update to my forked repo ?**
+
 In your local, switch to master branch `git checkout master`, add new remote `git remote add originRepo https://github.com/CodingameAlgeriaChallenge/codin-game.git` and make pull for the Original repo: `git pull originRepo master` and push to your repo: `git push -u origin master`.
