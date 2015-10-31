@@ -16,7 +16,7 @@ Please folow those steps :
  2. Clone the cloned repo to your local: `git clone LINK_To_YOUR_REPO`;
  3. Goto 'codin-game' folder: ` cd codin-game `
  4. Create new branch, please name it like the name of the game that you want to add eg: `git checkout -b PowerOfThor` 
- 5. If the the game not exists already, please check that the game not exists already, otherwise create a new folder with the name of the game eg: `mkdir Power of Thor`
+ 5. If the the game not exists already, please check that the game not exists already, otherwise create a new folder with the name of the game eg: `mkdir Power of Thor`, please put it in the right level: 'EASY', 'MEDIUM', 'HARD', 'VERY HARD'
  6. Add your file into the right directory, please name it: `Language.ExtensionLanguage`, eg: `JavaScript.js`, `Python.py`, `PHP.php` ...etc.  If you want to add new version of an existing language, just name your file like that : `PHP-1.php`, `PHP-2.php` ...etc 
  7. Commit your chages, please follow this convension for your commit message: "ACTION LANGUAGE script for GAME_NAME", eg : `git commit -am "Add Python script for Power of Thor"`,  `git commit -am "Edit Python script for Power of Thor"` or `git commit -am "Add new Python version for Power of Thor" ` ..etc
  8. Push your Branch: `git push -u origin BRANCH_NAME`
