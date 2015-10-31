@@ -7,7 +7,7 @@ Here we put all solutions of games on Codingame.com, join us https://www.faceboo
 ----------
 
 
-### How to add your code ?
+### How to send your solution ?
 
 
 Please folow those steps :
