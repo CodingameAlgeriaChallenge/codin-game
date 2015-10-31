@@ -26,6 +26,12 @@ Please folow those steps :
 ----------
 
 
+### Current solutions :
+ - Onboarding: JS
+ - Power of Thor: JS
+ - The Descent: JS
+
+----------
 ### FAQ
 
 **How to update my forked repo ?**
