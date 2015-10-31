@@ -23,6 +23,9 @@ Please folow those steps :
  9. In Github send a Pull Request(PR), please note that your PR will not be accepted if the code not test for all cases ;), in the description of your PR, send a screen shot
  10. And That's all :)
 
+----------
+
+
 ### FAQ
 **How to update to my forked repo ?**
 In your local, switch to master branch `git checkout master`, add new remote `git remote add originRepo https://github.com/CodingameAlgeriaChallenge/codin-game.git` and make pull for the Original repo: `git pull originRepo master` and push to your repo: `git push -u origin master`.
