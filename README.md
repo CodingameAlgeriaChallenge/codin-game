@@ -1,5 +1,5 @@
-Welcome to Codingame Algeria Challenge!
-===================
+## Welcome to Codingame Algeria Challenge!
+
 
 
 Here we put all solutions of games on Codingame.com, join us https://www.facebook.com/groups/CodingameChallengeAlgeria/ ;)
@@ -7,8 +7,8 @@ Here we put all solutions of games on Codingame.com, join us https://www.faceboo
 ----------
 
 
-How to add your code ?
--------------
+### How to add your code ?
+
 
 Please folow those steps :
 
