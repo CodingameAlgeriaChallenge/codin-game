@@ -16,7 +16,7 @@ for i in xrange(h):
 # To debug: print >> sys.stderr, "Debug messages..."
 for i in xrange(h):
     for c in t:
-        if ord(c) in xrange(ord("A"),ord("Z")):
+        if ord(c) in xrange(ord("A"),ord("Z")+1):
             index = ord(c) - ord('A')
         else:
             index = 26
