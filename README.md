@@ -32,7 +32,7 @@ Please folow those steps :
  - EASY > Power of Thor: JS, Python
  - EASY > The Descent: JS, Python
  - EASY > Skynet the Chasm: JS, Python
- - EASY > Temperatures: Python
+ - EASY > Temperatures: JS, Python
  - EASY > ASCII Art: Python
  - EASY > Chuck Norris: Python
  - EASY > MIME Type: Python
