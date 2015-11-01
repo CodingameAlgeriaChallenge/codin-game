@@ -23,20 +23,20 @@ int main()
 
         fprintf(stderr, "PosX=%d====lightX=%d /// PosY=%d====lightY=%d\n",posX,lightX,posY,lightY);
     
-        if(posY>lightY && posY>1){
+        if(posY>lightY && posY>0){
             printf("N");
             posY--;
         }
-        if(posY<lightY && posY<17){
+        if(posY<lightY && posY<18){
             printf("S");
             posY++;
         }
-        if(posX<lightX && posX<39){
+        if(posX<lightX && posX<40){
             printf("E");
             posX++;
         }
         
-        if(posX>lightX && posY>1){
+        if(posX>lightX && posY>0){
             printf("W");
             posX--;
         }
