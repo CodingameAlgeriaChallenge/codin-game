@@ -31,7 +31,7 @@ Please folow those steps :
  - TUTORIAL > Onboarding: JS, C++, Python, C, Bash
  - EASY > Power of Thor: JS, Python, C, Bash
  - EASY > The Descent: JS, Python, C, Bash
- - EASY > Skynet the Chasm: JS, Python, C
+ - EASY > Skynet the Chasm: JS, Python, C, Bash
  - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python
  - EASY > Chuck Norris: Python
