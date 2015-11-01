@@ -28,16 +28,16 @@ Please folow those steps :
 
 
 ### Current solutions :
- - Onboarding: JS, C++, Python
- - Power of Thor: JS, Python
- - The Descent: JS, Python
- - Skynet the Chasm: JS, Python
- - Temperatures: Python
- - ASCII Art: Python
- - Chuck Norris: Python
- - MIME Type: Python
- - Defibrillators: Python
- - Horse-racing Duals: Python
+ - TUTORIAL > Onboarding: JS, C++, Python
+ - EASY > Power of Thor: JS, Python
+ - EASY > The Descent: JS, Python
+ - EASY > Skynet the Chasm: JS, Python
+ - EASY > Temperatures: Python
+ - EASY > ASCII Art: Python
+ - EASY > Chuck Norris: Python
+ - EASY > MIME Type: Python
+ - EASY > Defibrillators: Python
+ - EASY > Horse-racing Duals: Python
 
 ----------
 ### FAQ
