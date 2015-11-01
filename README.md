@@ -30,7 +30,7 @@ Please folow those steps :
  - Onboarding: JS, C++, Python
  - Power of Thor: JS, Python
  - The Descent: JS, Python
- - Skynet: the Chasm: Python
+ - Skynet the Chasm: Python
  - Temperatures: Python
  - ASCII Art: Python
  - Chuck Norris: Python
