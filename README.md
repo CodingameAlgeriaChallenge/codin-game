@@ -27,9 +27,16 @@ Please folow those steps :
 
 
 ### Current solutions :
- - Onboarding: JS
- - Power of Thor: JS
- - The Descent: JS
+ - Onboarding: JS, C++, Python
+ - Power of Thor: JS, Python
+ - The Descent: JS, Python
+ - Skynet: the Chasm: Python
+ - Temperatures: Python
+ - ASCII Art: Python
+ - Chuck Norris: Python
+ - MIME Type: Python
+ - Defibrillators: Python
+ - Horse-racing Duals: Python
 
 ----------
 ### FAQ
