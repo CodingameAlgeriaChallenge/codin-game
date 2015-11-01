@@ -28,6 +28,7 @@ Please folow those steps :
 
 
 ### Current solutions :
+<<<<<<< HEAD
  - TUTORIAL > Onboarding: JS, C++, Python, C, Bash
  - EASY > Power of Thor: JS, Python, C, Bash
  - EASY > The Descent: JS, Python, C, Bash
@@ -35,6 +36,15 @@ Please folow those steps :
  - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python
  - EASY > Chuck Norris: Python
+=======
+ - TUTORIAL > Onboarding: JS, C, C++, Python, Bash
+ - EASY > Power of Thor: JS, Python, C, Bash
+ - EASY > The Descent: JS, Python, C, Bash
+ - EASY > Skynet the Chasm: JS, Python, C, Bash
+ - EASY > Temperatures: JS, Python, C, Bash
+ - EASY > ASCII Art: Python, C, Bash
+ - EASY > Chuck Norris: Pytho
+>>>>>>> C_Bash
  - EASY > MIME Type: Python
  - EASY > Defibrillators: Python
  - EASY > Horse-racing Duals: Python
