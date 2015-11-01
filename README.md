@@ -28,11 +28,11 @@ Please folow those steps :
 
 
 ### Current solutions :
- - TUTORIAL > Onboarding: JS, C++, Python
- - EASY > Power of Thor: JS, Python
- - EASY > The Descent: JS, Python
- - EASY > Skynet the Chasm: JS, Python
- - EASY > Temperatures: JS, Python
+ - TUTORIAL > Onboarding: JS, C++, Python, C, Bash
+ - EASY > Power of Thor: JS, Python, C, Bash
+ - EASY > The Descent: JS, Python, C, Bash
+ - EASY > Skynet the Chasm: JS, Python, C
+ - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python
  - EASY > Chuck Norris: Python
  - EASY > MIME Type: Python
