@@ -36,7 +36,7 @@ Please folow those steps :
  - EASY > ASCII Art: Python, C
  - EASY > Chuck Norris: Python, C
  - EASY > MIME Type: Python
- - EASY > Defibrillators: Python
+ - EASY > Defibrillators: Python, C
  - EASY > Horse-racing Duals: Python
 
 ----------
