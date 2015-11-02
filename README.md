@@ -35,7 +35,7 @@ Please folow those steps :
  - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python, C
  - EASY > Chuck Norris: Python, C
- - EASY > MIME Type: Python
+ - EASY > MIME Type: Python, C
  - EASY > Defibrillators: Python, C
  - EASY > Horse-racing Duals: Python
 
