@@ -34,7 +34,7 @@ Please folow those steps :
  - EASY > Skynet the Chasm: JS, Python, C, Bash
  - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python, C
- - EASY > Chuck Norris: Python
+ - EASY > Chuck Norris: Python, C
  - EASY > MIME Type: Python
  - EASY > Defibrillators: Python
  - EASY > Horse-racing Duals: Python
