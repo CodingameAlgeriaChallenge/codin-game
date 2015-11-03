@@ -37,7 +37,8 @@ Please folow those steps :
  - EASY > Chuck Norris: Python, C
  - EASY > MIME Type: Python, C
  - EASY > Defibrillators: Python, C
- - EASY > Horse-racing Duals: Python
+ - EASY > Horse-racing Duals: Python, C
+ - MEDIUM > APU: Init Phase : C
 
 ----------
 ### FAQ
