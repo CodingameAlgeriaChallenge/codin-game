@@ -39,6 +39,7 @@ Please folow those steps :
  - EASY > Defibrillators: Python, C
  - EASY > Horse-racing Duals: Python, C
  - MEDIUM > APU: Init Phase : C
+ - MEDIUM > The Paranoid Android : C
 
 ----------
 ### FAQ
