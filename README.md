@@ -40,6 +40,7 @@ Please folow those steps :
  - EASY > Horse-racing Duals: Python, C
  - MEDIUM > APU: Init Phase : C
  - MEDIUM > The Paranoid Android : C
+ - MEDIUM > Hostage Rescue - Part 1 - Training : C
 
 ----------
 ### FAQ
