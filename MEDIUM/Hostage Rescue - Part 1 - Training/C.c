@@ -18,7 +18,7 @@ int main()
     scanf("%d%d", &X0, &Y0);
 
 
-    int minY=-1,maxY=H,minX=-1,maxX=W;
+    int minY=0,maxY=H,minX=0,maxX=W;
     int x=X0,y=Y0;
     // game loop
     while (1) {
@@ -27,23 +27,19 @@ int main()
         
         if(strchr(BOMB_DIR,'U')!=NULL){
             maxY=y;
-            y=(y+minY-1)/2;
-            if(y==minY)y++;
+            y=(y+minY)/2;
         }
         if(strchr(BOMB_DIR,'D')!=NULL){
             minY=y;
-            y=(y+maxY+1)/2;
-            if(y==maxY)y--;
+            y=(y+maxY)/2;
         }
         if(strchr(BOMB_DIR,'R')!=NULL){
             minX=x;
-            x=(x+maxX+1)/2;
-            if(x==maxX)x--;
+            x=(x+maxX)/2;
         }
         if(strchr(BOMB_DIR,'L')!=NULL){
             maxX=x;
-            x=(x+minX-1)/2;
-            if(x==minX)x++;
+            x=(x+minX)/2;
         }
         // Write an action using printf(). DON'T FORGET THE TRAILING \n
         // To debug: fprintf(stderr, "Debug messages...\n");
