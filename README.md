@@ -32,6 +32,7 @@ Please folow those steps :
  - EASY > Power of Thor: JS, Python, C, Bash
  - EASY > The Descent: JS, Python, C, Bash
  - EASY > Skynet the Chasm: JS, Python, C, Bash
+ - EASY > Mars Lander - Level 1: Python, C++
  - EASY > Temperatures: JS, Python, C, Bash
  - EASY > ASCII Art: Python, C
  - EASY > Chuck Norris: Python, C
