@@ -42,6 +42,7 @@ Please folow those steps :
  - MEDIUM > APU: Init Phase : C
  - MEDIUM > The Paranoid Android : C
  - MEDIUM > Hostage Rescue - Part 1 - Training : C
+ - MEDIUM > Stock Exchange Losses : C
 
 ----------
 ### FAQ
