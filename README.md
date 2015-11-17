@@ -43,6 +43,7 @@ Please folow those steps :
  - MEDIUM > The Paranoid Android : C
  - MEDIUM > Hostage Rescue - Part 1 - Training : C
  - MEDIUM > Stock Exchange Losses : C
+ - MEDIUM > Dwarfs standing on the shoulders of giants : C
 
 ----------
 ### FAQ
