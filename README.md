@@ -44,6 +44,7 @@ Please folow those steps :
  - MEDIUM > Hostage Rescue - Part 1 - Training : C
  - MEDIUM > Stock Exchange Losses : C
  - MEDIUM > Dwarfs standing on the shoulders of giants : C
+ - MEDIUM > Mayan Calculation : Java
 
 ----------
 ### FAQ
