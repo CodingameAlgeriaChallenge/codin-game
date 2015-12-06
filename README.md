@@ -45,6 +45,7 @@ Please folow those steps :
  - MEDIUM > Stock Exchange Losses : C
  - MEDIUM > Dwarfs standing on the shoulders of giants : C
  - MEDIUM > Mayan Calculation : Java
+ - MEDIUM > John Horton Conway : Java
 
 ----------
 ### FAQ
