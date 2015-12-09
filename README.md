@@ -46,6 +46,7 @@ Please folow those steps :
  - MEDIUM > Dwarfs standing on the shoulders of giants : C
  - MEDIUM > Mayan Calculation : Java
  - MEDIUM > John Horton Conway : Java
+ - MEDIUM > Sracle : C
 
 ----------
 ### FAQ
